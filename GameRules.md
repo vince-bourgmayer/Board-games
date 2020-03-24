@@ -1,11 +1,14 @@
 # Règle de jeu de carte:
 _Auteur:_ Vincent Bourgmayer
+
 _Date de création:_ 2020-03-24
 
 
 # Version A: Ennemi commun.
 __Requis:__ un jeu de carte standard de 32 ou 64 cartes.
+
 __Nombre de joueur:__ 1 et +
+
 __durée:__ variable (entre 5 et 15 minutes environs)
 
 ### Préparation
