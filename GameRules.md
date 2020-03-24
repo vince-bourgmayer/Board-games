@@ -76,13 +76,11 @@ Chaque carte représente soit une attaque soit un bouclier.
 
 Le bouclier protège d'une attaque du même symbole.
 
+__Par exemple:__ un bouclier de coeur protège contre une attaque de coeur.
+
 Chaque joueur doit avoir une attaque de chaque symbole et un bouclier de chaque symbole.
 
 Chaque joueur choisit librement quelle carte est une attaque et quelle carte est un bouclier.
-
-__Par exemple:__ un bouclier de coeur protège contre une attaque de coeur.
-
-Mélangez et faites une pile avec le reste des cartes. Placez la au centre de la table. 
 
 ### Déroulement
 Au début d'un tour, chaque joueur choisis deux cartes bouclier et une carte attaque. Il les pose faces cachées sur la table.
