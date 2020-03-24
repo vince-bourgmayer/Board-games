@@ -49,5 +49,51 @@ Si la pile d'attaque est vide, tous les joueurs restants ont gagné.
 Après chaque attaque, chaque joueur récupère ses boucliers et un nouveau tour commence.
 
 
-# Version B
-_Player number:_ 2 and more
+# Version B: Chacun pour soi
+__Requis:__ un jeu de carte standard de 32 ou 64 cartes.
+
+__Nombre de joueur:__ 2 et +
+
+__durée:__ variable (entre 5 et 15 minutes environs)
+
+### Préparation
+Choisissez un nombre de point de vie en fonction de la durée de la partie souhaitée:
+5, 10, 15 ou 42 si vous voulez.
+
+Chaque joueur reçoit ce nombre de point de vie.
+
+Chaque joueur reçoit deux cartes de chaques symboles (coeur, pique, trêfle et carreau). 
+
+__Suggestion:__ Pour simplifier prenez un numéro et une tête ou deux numéros ou deux têtes pour une même personne.
+
+__Par exemple:__
+- Alphonse reçoit les 4 rois et tous les 6. Il a 5 points de vie.
+- Suzette reçoit les 4 reines et tous les 4. Elle a 5 points de vie.
+- Michel reçoit les 4 As et tous les 9  .Il a 5 points de vie.
+
+
+Chaque carte représente soit une attaque soit un bouclier. 
+
+Le bouclier protège d'une attaque du même symbole.
+
+Chaque joueur doit avoir une attaque de chaque symbole et un bouclier de chaque symbole.
+
+Chaque joueur choisit librement quelle carte est une attaque et quelle carte est un bouclier.
+
+__Par exemple:__ un bouclier de coeur protège contre une attaque de coeur.
+
+Mélangez et faites une pile avec le reste des cartes. Placez la au centre de la table. 
+
+### Déroulement
+Au début d'un tour, chaque joueur choisis deux cartes bouclier et une carte attaque. Il les pose faces cachées sur la table.
+
+Quand tous les joueurs ont choisi et posé leurs boucliers et leur attaque, tous les joueurs retournent leur carte d'attaque pour la rendre visible à tout le monde. L'attaque affecte tous les joueurs à l'exception de celui qui l'a choisit.
+
+Ensuite chaque joueur dévoile ses boucliers. 
+
+Pour chaque attaque subit sans avoir le bouclier correspondant le joueur perd un point de vie.
+Quand il n'a plus de point de vie il est vaincu.
+Le dernier debout est vainqueur. 
+
+A la fin du tour, chaque joueur reprend ses cartes et un nouveau tour commence.
+
