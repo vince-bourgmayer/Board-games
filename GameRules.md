@@ -85,7 +85,7 @@ __Nombre de joueur:__ 2 et +
 
 __durée:__ variable (entre 5 et 15 minutes environs)
 
-### Préparation
+##### Préparation
 Choisissez un nombre de point de vie en fonction de la durée de la partie souhaitée:
 5, 10, 15 ou 42 si vous voulez.
 
@@ -111,7 +111,7 @@ Chaque joueur doit avoir une attaque de chaque symbole et un bouclier de chaque 
 
 Chaque joueur choisit librement quelle carte est une attaque et quelle carte est un bouclier.
 
-### Déroulement
+##### Déroulement
 Au début d'un tour, chaque joueur choisis deux cartes bouclier et une carte attaque. Il les pose faces cachées sur la table.
 
 Quand tous les joueurs ont choisi et posé leurs boucliers et leur attaque, tous les joueurs retournent leur carte d'attaque pour la rendre visible à tout le monde. L'attaque affecte tous les joueurs à l'exception de celui qui l'a choisit.
@@ -124,3 +124,10 @@ Le dernier debout est vainqueur.
 
 A la fin du tour, chaque joueur reprend ses cartes et un nouveau tour commence.
 
+#### 4. Chacun pour soi, base "UNO" (_by Tankred_):
+Reprendre les règles du `chacun pour soi` et de `sur base "UNO"`.
+Avec les différence suivantes:
+- garder une pioche pour les cartes attaques.
+- Au début de la partie: piocher 4 cartes d'attaques.
+- A la fin de chaque tour repiocher une carte attaque.
+- Les attaques jouées retournent dans la pioche.
