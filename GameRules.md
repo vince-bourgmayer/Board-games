@@ -1,10 +1,12 @@
+
+# Shields!
+licence GNU GPL
+
 # Règle de jeu de carte:
 _Auteur:_ Vincent Bourgmayer
 
 _Date de création:_ 2020-03-24
 
-
-# Version A: Ennemi commun.
 __Requis:__ un jeu de carte standard de 32 ou 64 cartes.
 
 __Nombre de joueur:__ 1 et +
@@ -48,16 +50,35 @@ Si la pile d'attaque est vide, tous les joueurs restants ont gagné.
 
 Après chaque attaque, chaque joueur récupère ses boucliers et un nouveau tour commence.
 
-### Règles optionnelles
-#### Le tricheur (_by Romain_) :
+### Règles optionnelles et variantes
+#### 1. Le tricheur (_by Romain_) :
+Cette règle permet d'ajouter du bluff au jeu.
 
 Dans cette variante, chaque joueur retourne ses cartes face cachée plutôt que face visible. Les autres joueurs ne doivent pas voir les boucliers qu'il a choisit.
 
 Après que l'attaque soit passée, chaque joueur déclare avoir été touché ou non. Il est possible de mentir!
 Après cette déclaration, chaque joueur à la possibilité de déclarer qu'un autre joueur a menti. L'accusé retourne alors ses boucliers. S'il a menti, il perd 2 points de vie sinon c'est l'accusateur qui perd un point de vie.
 
+#### 2. Sur base "UNO" :
+__Requis:__ un jeu de "UNO" standard
 
-# Version B: Chacun pour soi
+Cette variante ce joue avec un jeu de "UNO" duquel on a retiré toutes les cartes noires (changement de couleur, +4, ...).
+Elle ajoute un peu plus de dynamisme et de variété dans le jeu.
+
+Les joueurs ne peuvent __pas__ choisir les "+2", "interdit" et "changement de sens" comme carte de bouclier.
+
+Qu'est ce qui est différent ?
+- Quand l'ennemi lance une attaque qui est un "+2", il y a deux possibilités:
+  1. tous les joueurs non protégés perdent 2 points de vie au lieu d'un.
+  2. Au prochain tour, l'ennemi lance deux attaques au lieu d'une seule.
+- Quand l'ennemi lance une attaque qui est un "interdit", il y a deux possibilités: 
+  1. Au prochain tour, les joueurs touchés par l'attaque "interdit" ne peuvent plus jouer qu'un seul bouclier.
+  2. Au prochain tour, le bouclier de la couleur de l' "interdit" ne peut plus être joué.
+- Quand l'ennemi lance une attaque "changement de sens", tous les joueurs échangent leurs boucliers activés avec les desactivés.
+
+_Note: "UNO" est une marque déposé et appartient à [Mattel](https://www.mattelgames.com/en-us/cards/uno)_
+
+#### 3. Chacun pour soi
 __Requis:__ un jeu de carte standard de 32 ou 64 cartes.
 
 __Nombre de joueur:__ 2 et +
