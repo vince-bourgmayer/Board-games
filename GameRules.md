@@ -48,6 +48,14 @@ Si la pile d'attaque est vide, tous les joueurs restants ont gagné.
 
 Après chaque attaque, chaque joueur récupère ses boucliers et un nouveau tour commence.
 
+### Règles optionnelles
+#### Le tricheur (_by Romain_) :
+
+Dans cette variante, chaque joueur retourne ses cartes face cachée plutôt que face visible. Les autres joueurs ne doivent pas voir les boucliers qu'il a choisit.
+
+Après que l'attaque soit passée, chaque joueur déclare avoir été touché ou non. Il est possible de mentir!
+Après cette déclaration, chaque joueur à la possibilité de déclarer qu'un autre joueur a menti. L'accusé retourne alors ses boucliers. S'il a menti, il perd 2 points de vie sinon c'est l'accusateur qui perd un point de vie.
+
 
 # Version B: Chacun pour soi
 __Requis:__ un jeu de carte standard de 32 ou 64 cartes.
