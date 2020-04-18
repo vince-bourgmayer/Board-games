@@ -126,8 +126,8 @@ A la fin du tour, chaque joueur reprend ses cartes et un nouveau tour commence.
 
 #### 4. Chacun pour soi, base "UNO" (_by Tankred_):
 Reprendre les règles du `chacun pour soi` et de `sur base "UNO"`.
-Avec les différence suivantes:
-- garder une pioche pour les cartes attaques.
-- Au début de la partie: piocher 4 cartes d'attaques.
-- A la fin de chaque tour repiocher une carte attaque.
-- Les attaques jouées retournent dans la pioche.
+Avec les différences suivantes:
+- garder une pioche pour les cartes "attaque".
+- Au début de la partie: piocher 4 cartes "attaque".
+- A la fin de chaque tour, repiocher une carte "attaque".
+- Les cartes "attaque" jouées retournent dans la pioche.
