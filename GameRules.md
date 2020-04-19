@@ -141,7 +141,7 @@ En se basant sur la règle `sur base "UNO"`, de nouveaux effets sont disponibles
 - `Encore` : les joueurs doivent rejouer les mêmes boucliers au prochain tour lorsque l'ennemi joue un "0" 
 - `Destin` : les joueurs sont obligés de jouer le bouclier de la couleur (ou même symbole) de l'attaque au prochain tour lorsque l'ennemi joue un "6". Par exemple: Un "6 vert" oblige les joueurs à jouer un bouclier "vert" au prochain tour.
 - `Confusion`: lorsque l'ennemi joue un "7", les joueurs choisissent leurs boucliers au hasard au prochain tour. Pour cela, ils retournent leurs boucliers face cachés, les mélanges puis en choisissent deux. [Non compatible avec `Le Tricheur`]
-
+- `Attaque ultime`: Quand l'ennemi joue un "+4" (si vous souhaitez les utiliser): l'attaque en cours de cause aucun dégâts, mais au prochain tour l'ennemi lance 4 attaques en même temps. N'appliquer les effets spéciaux qu'une seule fois par type.
 
 Voici une manière de construire un tel jeu à partir du jeu de UNO:
 - 1 carte de chaque couleur pour les nombres de "1" à "5". Ce sont les attaques standard. (total: 20 cartes)
