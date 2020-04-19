@@ -69,14 +69,17 @@ Les joueurs ne peuvent __pas__ choisir les "+2", "interdit" et "changement de se
 
 Qu'est ce qui est différent ?
 - Quand l'ennemi lance une attaque qui est un "+2", il y a deux possibilités:
-  1. tous les joueurs non protégés perdent 2 points de vie au lieu d'un.
-  2. Au prochain tour, l'ennemi lance deux attaques au lieu d'une seule.
+  1. `Super attaque`: tous les joueurs non protégés perdent 2 points de vie au lieu d'un.
+  2. `Double attaque`: Au prochain tour, l'ennemi lance deux attaques au lieu d'une seule.
 - Quand l'ennemi lance une attaque qui est un "interdit", il y a deux possibilités: 
-  1. Au prochain tour, les joueurs touchés par l'attaque "interdit" ne peuvent plus jouer qu'un seul bouclier.
-  2. Au prochain tour, le bouclier de la couleur de l' "interdit" ne peut plus être joué.
-- Quand l'ennemi lance une attaque "changement de sens", tous les joueurs échangent leurs boucliers activés avec les desactivés.
+  1. `Handicap`: Au prochain tour, les joueurs touchés par l'attaque "interdit" ne peuvent plus jouer qu'un seul bouclier.
+  2. `Entrave` Au prochain tour, le bouclier de la couleur de l' "interdit" ne peut plus être joué.
+- `Daltonien` Quand l'ennemi lance une attaque "changement de sens", tous les joueurs échangent leurs boucliers activés avec les desactivés.
 
 _Note: "UNO" est une marque déposé et appartient à [Mattel](https://www.mattelgames.com/en-us/cards/uno)_
+
+_Note 2: cette règle peut être utilisée avec un jeu classique, si l'on attribue les effets aux cartes personnages.
+Par exemple: le roi fait une `Super attaque` ou une `Double attaque`, le valet fait un `Handicap` ou une `Entrave`, la reine applique l'effet `Daltonien`_
 
 #### 3. Chacun pour soi
 __Requis:__ un jeu de carte standard de 32 ou 64 cartes.
@@ -131,3 +134,23 @@ Avec les différences suivantes:
 - Au début de la partie: piocher 4 cartes "attaque".
 - A la fin de chaque tour, repiocher une carte "attaque".
 - Les cartes "attaque" jouées retournent dans la pioche.
+
+
+#### 5. Effets supplémentaires, sur base "UNO":
+En se basant sur la règle `sur base "UNO"`, de nouveaux effets sont disponibles sur les attaques de l'ennemi:
+- `Encore` : les joueurs doivent rejouer les mêmes boucliers au prochain tour lorsque l'ennemi joue un "0" 
+- `Destin` : les joueurs sont obligés de jouer le bouclier de la couleur (ou même symbole) de l'attaque au prochain tour lorsque l'ennemi joue un "6". Par exemple: Un "6 vert" oblige les joueurs à jouer un bouclier "vert" au prochain tour.
+- `Confusion`: lorsque l'ennemi joue un "7", les joueurs choisissent leurs boucliers au hasard au prochain tour. Pour cela, ils retournent leurs boucliers face cachés, les mélanges puis en choisissent deux. [Non compatible avec `Le Tricheur`]
+
+
+Voici une manière de construire un tel jeu à partir du jeu de UNO:
+- 1 carte de chaque couleur pour les nombres de "1" à "5". Ce sont les attaques standard. (total: 20 cartes)
+- 1 carte "0" de chaque couleur pour l'effet `Encore`. (total: 4 cartes)
+- 1 carte "6" de chaque couleur pour l'effet `Destin`. (total: 4 cartes)
+- 1 carte "7" de chaque couleur pour l'effet `Confusion`. (total: 4 cartes)
+- 1 carte "+2" de chaque couleur pour l'effet `Super attaque` ou `Double attaque`. (total: 4 cartes)
+- 1 carte "interdit" de chaque couleur pour l'effet `Handicap` ou l'effet `Entrave`. (total: 4 cartes)
+- 1 carte "changement de sens" de chaque couleur pour l'effet `Daltonien`. (total: 4 cartes)
+
+Soit un total de : (20 + 4 + 4 + 4 + 4 + 4 + 4) 44 cartes d'attaque.
+Utiliser le reste pour représenter les boucliers. 
