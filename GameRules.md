@@ -154,3 +154,8 @@ Voici une manière de construire un tel jeu à partir du jeu de UNO:
 
 Soit un total de : (20 + 4 + 4 + 4 + 4 + 4 + 4) 44 cartes d'attaque.
 Utiliser le reste pour représenter les boucliers. 
+
+#### 6. Changer le niveau de difficulté:
+Pour augmenter le niveau de difficulté: ne choisissez plus qu'un seul bouclier
+
+Pour le diminuer: jouer trois boucliers au lieu d'un.
