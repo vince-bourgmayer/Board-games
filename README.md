@@ -13,3 +13,6 @@ Just a card game
 - Create design for specific cards:
 [Helpful link](https://www.trictrac.net/forum/sujet/dimensions-des-cartes-standard)
 [Useful tool](http://www.pandocreon.fr/logiciels/carta-genius/)
+
+
+
